@@ -1,0 +1,6 @@
+[submodule "ST201"]
+	path = ST201
+	url = https://github.com/C-Monaghan/ST201.git
+[submodule "ST303"]
+	path = ST303
+	url = https://github.com/C-Monaghan/ST303.git
